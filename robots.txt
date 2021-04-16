@@ -1,0 +1,12 @@
+User-agent: googlebot
+User-agent: bingbot
+User-agent: slurp
+User-agent: baiduspider
+User-agent: yandex
+User-agent: DuckDuckBot
+User-agent: aolbuild
+User-agent: teoma
+Allow: /
+User-agent: *
+Disallow: /
+sitemap: https://keluaranhongkong.onrender.com/submap.xml
